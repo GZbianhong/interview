@@ -115,9 +115,3 @@ console.log(sum('0.1,0.2,0.4,0.008')===0.708);//true;
 
 ---
 
-
-
-
-
-
-[1]:(https://www.npmjs.com/package/async)
