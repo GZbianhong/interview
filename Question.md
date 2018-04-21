@@ -1,5 +1,5 @@
 # Q
-###纸笔测试
+### 纸笔测试
 ### 1. 重写如下代码，得到**相同运行效果**
 ```javascript
 console.log(foo); 
@@ -65,7 +65,7 @@ let add=num=>{return n=>{return num+n}};
 let add_3=add(3);
 console.log(add_3(.5))
 ```
-###上机测试
+### 上机测试
 
 ### 1. 使用闭包，实现一个简单的计数器。
 

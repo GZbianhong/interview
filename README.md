@@ -1,7 +1,7 @@
 # interview
 bianhong interview
 
-#面试者必须在完成纸笔测试后，再尝试上机测试。
+# 面试者必须在完成纸笔测试后，再尝试上机测试。
 
 面试流程：
 - fork
